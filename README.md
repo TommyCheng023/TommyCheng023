@@ -5,10 +5,6 @@
 
 🔭I'm interested in Kendo, swimming, frisbee and squash. I am also a drummer!
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyCheng023)
-![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommyCheng023&show_icons=true&theme=transparent)
-
 ### To learn more about me, feel free to visit my [personal website](https://tommycheng023.github.io/)!
 
 <!--
