@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Xinyang Cheng, you can call me Tommy. :D
 
 ### About Me
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyCheng023)
 
 
 <!--
