@@ -5,6 +5,7 @@
 
 🔭I'm interested in Kendo, swimming, frisbee and squash. I am also a drummer!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyCheng023)](https://github.com/anuraghazra/github-readme-stats)
 ### To learn more about me, feel free to visit my [personal website](https://tommycheng023.github.io/)!
 
 <!--
@@ -21,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
