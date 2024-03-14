@@ -1,3 +1,5 @@
+<img width="1185" alt="Screen Shot 2024-03-12 at 6 00 06 PM" src="https://github.com/TommyCheng023/TommyCheng023/assets/115842289/e6583c66-df6d-43e0-854c-2c3e5125ed65">
+
 ## Hi there! 👋 My name is Xinyang Cheng, you can call me Tommy. :D
 
 ### About Me
