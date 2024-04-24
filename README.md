@@ -2,6 +2,14 @@
 ## Hi there! 👋 My name is Xinyang Cheng, you can call me Tommy. :D
 
 ### About Me
+```
+ _____                                       ____  _                         
+|_   _|___   _ __ ___   _ __ ___   _   _    / ___|| |__    ___  _ __    __ _ 
+  | | / _ \ | '_ ` _ \ | '_ ` _ \ | | | |  | |    | '_ \  / _ \| '_ \  / _` |
+  | || (_) || | | | | || | | | | || |_| |  | |___ | | | ||  __/| | | || (_| |
+  |_| \___/ |_| |_| |_||_| |_| |_| \__, |   \____||_| |_| \___||_| |_| \__, |
+                                   |___/                               |___/ 
+```
 📖Currently, I'm an undergraduate sophomore at Boston University pursuing Applied Mathematics and Computer Science double degrees. 
 
 🔭I will transfer to University of Michigan, Ann Arbor this fall, taking the computer science program under mathematics major.
