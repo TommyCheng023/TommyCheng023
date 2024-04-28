@@ -8,7 +8,7 @@
   | | / _ \ | '_ ` _ \ | '_ ` _ \ | | | |  | |    | '_ \  / _ \| '_ \  / _` |
   | || (_) || | | | | || | | | | || |_| |  | |___ | | | ||  __/| | | || (_| |
   |_| \___/ |_| |_| |_||_| |_| |_| \__, |   \____||_| |_| \___||_| |_| \__, |
-                                   |___/                               |___/ 
+                                   |___/                               |___/  
 ```
 📖Currently, I'm an undergraduate sophomore at Boston University pursuing Applied Mathematics and Computer Science double degrees. 
 
