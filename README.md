@@ -10,11 +10,7 @@
   |_| \___/ |_| |_| |_||_| |_| |_| \__, |   \____||_| |_| \___||_| |_| \__, |
                                    |___/                               |___/  
 ```
-📖Currently, I'm an undergraduate sophomore at Boston University pursuing Applied Mathematics and Computer Science double degrees. 
-
-🔭I will transfer to University of Michigan, Ann Arbor this fall, taking the computer science program under mathematics major.
-
-🌟I'm interested in Kendo, swimming, frisbee and squash. I am also a drummer!
+📖Currently, I'm an undergraduate at the University of Michigan, Ann Arbor taking B.S. in Data Science. 
 
 ### Activity Status
 ![Top Langs](http://github-readme-stats-gamma-plum-63.vercel.app/api/top-langs/?username=TommyCheng023&langs_count=6)
